@@ -6,4 +6,4 @@ App中定义全局bus
 
 效果图：
 
- ![OttoDemo](E:\360down\OttoDemo.gif)
+ ![OttoDemo](OttoDemo.gif)
